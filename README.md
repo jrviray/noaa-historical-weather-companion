@@ -10,25 +10,25 @@ $ python3 historical_weather.py -f \<**FUNCTION NAME**\> -c \<**CITY**\> -t \<**
 
 Arguments and Options
 
-**FUNCTION NAME**
-days_of_percip
-max_temp_delta
+**FUNCTION NAME**<br>
+days_of_percip<br>
+max_temp_delta<br>
 
-**CITY**
-bos
-jnu
-mia
+**CITY**<br>
+bos<br>
+jnu<br>
+mia<br>
 
-**TIME SPAN**
-ALL
-YEARLY
-MONTHLY
+**TIME SPAN**<br>
+ALL<br>
+YEARLY<br>
+MONTHLY<br>
 
 **YEAR**
-Not require if **TIME SPAN** is ALL, but required if **TIME SPAN** is YEARLY.
+Not require if **TIME SPAN** is ALL, but required if **TIME SPAN** is YEARLY.<br>
 Please enter a year between 2011 to 2019 using YYYY format
 
 **MONTH**
-Not required if **TIME SPAN** is ALL or YEARLY
-**YEARLY** is also required if **TIME SPAN** is MONTHLY
+Not required if **TIME SPAN** is ALL or YEARLY<br>
+**YEARLY** is also required if **TIME SPAN** is MONTHLY<br>
 Please enter the name of the month, ie April
