@@ -30,5 +30,5 @@ Please enter a year between 2011 to 2019 using YYYY format<br>
 
 **MONTH**<br>
 Not required if **TIME SPAN** is ALL or YEARLY<br>
-**YEARLY** is also required if **TIME SPAN** is MONTHLY<br>
+**YEAR** is also required if **TIME SPAN** is MONTHLY<br>
 Please enter the name of the month, ie April
