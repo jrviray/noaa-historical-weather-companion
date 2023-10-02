@@ -24,11 +24,11 @@ ALL<br>
 YEARLY<br>
 MONTHLY<br>
 
-**YEAR**
+**YEAR**<br>
 Not require if **TIME SPAN** is ALL, but required if **TIME SPAN** is YEARLY.<br>
-Please enter a year between 2011 to 2019 using YYYY format
+Please enter a year between 2011 to 2019 using YYYY format<br>
 
-**MONTH**
+**MONTH**<br>
 Not required if **TIME SPAN** is ALL or YEARLY<br>
 **YEARLY** is also required if **TIME SPAN** is MONTHLY<br>
 Please enter the name of the month, ie April
