@@ -29,6 +29,6 @@ Not require if **TIME SPAN** is ALL, but required if **TIME SPAN** is YEARLY.
 Please enter a year between 2011 to 2019 using YYYY format
 
 **MONTH**
-Not require if **TIME SPAN** is ALL or YEARLY
+Not required if **TIME SPAN** is ALL or YEARLY
 **YEARLY** is also required if **TIME SPAN** is MONTHLY
 Please enter the name of the month, ie April
