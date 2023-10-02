@@ -93,7 +93,7 @@ def max_temp_delta(FILE_DATA, LOCATION, TIME, YEAR, MONTH) :
         exit(1)
       else:
         # override data frame with filtered data frame based on year and month
-       time_frame = time_frame.loc[(pd.to_datetime(time_frame.DATE).dt.year == YEAR) & (pd.to_datetime(time_frame.DATE).dt.month_name() == 'April')]
+       time_frame = time_frame.loc[(pd.to_datetime(time_frame.DATE).dt.year == YEAR) & (pd.to_datetime(time_frame.DATE).dt.month_name() == MONTH)]
 
   # sort filtered data frame according to DELTA
   time_frame = time_frame.sort_values(['DELTA'], ascending=False)
